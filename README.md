@@ -1,5 +1,5 @@
 # BalanceCarbasedonPSoC6
-清华大学自动化系2018级大二暑假小学期“现代电子系统设计”大作业工程源码--基于PSoC6的多功能平衡车
+清华大学自动化系2018级大二暑假小学期课程“现代电子系统设计”综合创新实验工程源码--基于PSoC6的多功能平衡车
 
 Final Project of Course "Contemporary Electronic System Design" in Tsinghua University.
 
