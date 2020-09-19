@@ -1,0 +1,7 @@
+C:\Users\Richard\Desktop\BalanceCar_20200909091744\BalanceCar_20200909091744\BalanceCar_20200909091744\BalanceCar_202009091744\BalanceCar\CarDesign.cydsn\CarDesign.cyprj|5acd0a6d-7486-440b-a89e-4e1d887ef7a2
+D:\PSoCCreator\PSoC Creator\4.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|306f8ece-623c-43d2-af7f-045c4188250d
+C:\Users\Richard\Documents\PSoC Creator\4.3\Downloads ( 4.3).cylib\Downloads ( 4.3).cyprj|cdfd8eae-2595-4bde-b687-e7838621ab48
+D:\PSoCCreator\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|ed988bba-07c1-4a66-83d6-22a5e2b3fc98
+D:\PSoCCreator\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|4e3b60ae-6bbc-4d6d-89bc-10fdf1bd2f32
+D:\PSoCCreator\PSoC Creator\4.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|65d506de-8959-4f0c-9257-9b9285b7622e
+C:\Users\Richard\Desktop\BalanceCar_20200909091744\BalanceCar_20200909091744\BalanceCar_20200909091744\BalanceCar_202009091744\BalanceCar\UART_Low_Level_User_ISR02.cydsn\UART_Low_Level_User_ISR02.cyprj|d48ebf15-7b65-4e3f-b958-36a9d120d990

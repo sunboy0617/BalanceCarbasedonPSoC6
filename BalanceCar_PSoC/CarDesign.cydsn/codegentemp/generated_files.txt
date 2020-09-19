@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="us-ascii"?>
+
+<fileSet version="1" anchorPath="C:\Users\Richard\Desktop\BalanceCar_20200909091744\BalanceCar_20200909091744\BalanceCar_20200909091744\BalanceCar_202009091744\BalanceCar\CarDesign.cydsn\codegentemp" xsi:schemaLocation="http://cypress.com/xsd/cypathdictionary cypathdictionary.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://cypress.com/xsd/cypathdictionary">
+</fileSet>
